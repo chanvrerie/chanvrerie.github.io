@@ -1,3 +1,8 @@
+---
+title: Carpe Horas
+author: Marianne
+---
+
 ## GitHub Pages Test
 
 Testing out [Jekyll](https://jekyllrb.com/), a static site generator, to host Carpe Horas after WordPress became more trouble than it was worth.
