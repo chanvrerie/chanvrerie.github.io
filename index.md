@@ -1,12 +1,12 @@
-## Welcome to GitHub Pages
+## GitHub Pages Test
 
-You can use the [editor on GitHub](https://github.com/chanvrerie/chanvrerie.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Testing out [Jekyll](https://jekyllrb.com/), a static site generator, to host Carpe Horas after WordPress became more trouble than it was worth.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Jekyll is highly blog-focused and may not be able to support all the things I'd like to do, but it's worth a shot.
 
-### Markdown
+### Subsection
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Keeping all this as a quick Markdown reference.
 
 ```markdown
 Syntax highlighted code block
